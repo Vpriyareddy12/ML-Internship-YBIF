@@ -87,7 +87,7 @@ The model was evaluated using the following metrics:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Snig17/ml-internship-ybif.git
+   git clone https://github.com/Vpriyareddy12/ml-internship-ybif.git
    cd ml-internship-ybif/employee-attrition
    ```
 

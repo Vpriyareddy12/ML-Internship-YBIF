@@ -80,7 +80,7 @@ A scatter plot of **Actual vs Predicted Strength** was plotted to visualize mode
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Snig17/concrete-compressive-strength-prediction.git
+   git clone https://github.com/Vpriyareddy12/concrete-compressive-strength-prediction.git
    cd concrete-compressive-strength-prediction
    ```
 
