@@ -98,7 +98,7 @@ The model was evaluated using the following metrics:
 
 3. **Open the notebook**
    ```bash
-   jupyter notebook Classification_Model_to_Identify_Employee_Attrition.ipynb
+   jupyter notebook Notebook.ipynb
    ```
 
 ---

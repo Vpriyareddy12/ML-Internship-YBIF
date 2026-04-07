@@ -91,7 +91,7 @@ A scatter plot of **Actual vs Predicted Strength** was plotted to visualize mode
 
 3. **Open the notebook**
    ```bash
-   jupyter notebook Regression_Model_to_Predict_Cement_Compressive_Strength.ipynb
+   jupyter notebook Notebook.ipynb
    ```
 
 ---
