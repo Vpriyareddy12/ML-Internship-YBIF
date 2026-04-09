@@ -1,16 +1,16 @@
-# 🏥 Multiple Disease Prediction
+# Multiple Disease Prediction
 
 Identifying multiple diseases using a **Random Forest Classifier** based on patient symptoms and medical indicators.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Early and accurate disease identification is critical in healthcare. This project builds a multi-class classification model to predict multiple diseases based on patient symptoms — enabling faster diagnosis and better medical decision-making.
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 - **Source:** [YBI Foundation Dataset](https://github.com/ybifoundation/Dataset/raw/main/MultipleDiseasePrediction.csv)
 - **Target Variable:** `prognosis` (type of disease)
@@ -19,7 +19,7 @@ Early and accurate disease identification is critical in healthcare. This projec
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Language:** Python 3.x
 - **Data Analysis:** Pandas, NumPy
@@ -29,7 +29,7 @@ Early and accurate disease identification is critical in healthcare. This projec
 
 ---
 
-## 🔄 Project Workflow
+## Project Workflow
 
 ```
 1. Import Libraries
@@ -51,7 +51,7 @@ Early and accurate disease identification is critical in healthcare. This projec
 
 ---
 
-## 📈 Results
+## Results
 
 The model was evaluated using the following metrics:
 
@@ -61,11 +61,11 @@ The model was evaluated using the following metrics:
 | Confusion Matrix | True vs predicted classifications |
 | Classification Report | Precision, Recall, F1-score per disease class |
 
-> Further performance improvements can be achieved by tuning hyperparameters using Grid Search.
+Further performance improvements can be achieved by tuning hyperparameters using Grid Search.
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. **Clone the repository**
    ```bash
@@ -85,7 +85,7 @@ The model was evaluated using the following metrics:
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 ```
 pandas
@@ -98,7 +98,7 @@ jupyter
 
 ---
 
-## 🧠 Key Learnings
+## Key Learnings
 
 - Built a multi-class classification pipeline for healthcare data
 - Used Random Forest Classifier to predict multiple diseases from symptoms
@@ -107,6 +107,6 @@ jupyter
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).

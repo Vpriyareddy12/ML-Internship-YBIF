@@ -1,16 +1,16 @@
-# 👥 Employee Attrition Prediction
+# Employee Attrition Prediction
 
 Identifying employee attrition using a **Random Forest Classifier** based on employee demographics and work-related factors.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Employee attrition is a major challenge for organizations, leading to high recruitment and training costs. This project builds a classification model to predict whether an employee is likely to leave the company based on various HR metrics — helping organizations take proactive retention measures.
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 - **Source:** [YBI Foundation Dataset](https://github.com/ybifoundation/Dataset/raw/main/EmployeeAttrition.csv)
 - **Target Variable:** `Attrition` (Yes / No)
@@ -39,7 +39,7 @@ Employee attrition is a major challenge for organizations, leading to high recru
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Language:** Python 3.x
 - **Data Analysis:** Pandas, NumPy
@@ -49,7 +49,7 @@ Employee attrition is a major challenge for organizations, leading to high recru
 
 ---
 
-## 🔄 Project Workflow
+## Project Workflow
 
 ```
 1. Import Libraries
@@ -71,7 +71,7 @@ Employee attrition is a major challenge for organizations, leading to high recru
 
 ---
 
-## 📈 Results
+## Results
 
 The model was evaluated using the following metrics:
 
@@ -83,12 +83,12 @@ The model was evaluated using the following metrics:
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. **Clone the repository**
    ```bash
    git clone https://github.com/Vpriyareddy12/ml-internship-ybif.git
-   cd ml-internship-ybif/employee-attrition
+   cd ml-internship-ybif/Employee-Attrition
    ```
 
 2. **Install dependencies**
@@ -103,7 +103,7 @@ The model was evaluated using the following metrics:
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 ```
 pandas
@@ -116,7 +116,7 @@ jupyter
 
 ---
 
-## 🧠 Key Learnings
+## Key Learnings
 
 - Built an end-to-end classification pipeline for HR analytics
 - Used Random Forest Classifier for predicting employee attrition
@@ -125,6 +125,6 @@ jupyter
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).

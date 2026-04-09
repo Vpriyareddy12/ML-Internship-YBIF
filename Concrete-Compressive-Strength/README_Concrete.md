@@ -1,16 +1,16 @@
-# 🏗️ Concrete Compressive Strength Prediction
+# Concrete Compressive Strength Prediction
 
 Predicting the compressive strength of concrete using **Linear Regression** based on its mix composition and age.
 
 ---
 
-## 📌 Project Overview
+## Project Overview
 
 Concrete compressive strength is one of the most critical parameters in civil engineering and construction. This project builds a regression model to predict the compressive strength (in MPa) of concrete based on its ingredient composition and curing age — helping engineers estimate strength without costly physical tests.
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 - **Source:** [YBI Foundation Dataset](https://github.com/ybifoundation/Dataset/raw/main/Concrete%20Compressive%20Strength.csv)
 - **Samples:** 1030 instances
@@ -30,7 +30,7 @@ Concrete compressive strength is one of the most critical parameters in civil en
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Language:** Python 3.x
 - **Data Analysis:** Pandas, NumPy
@@ -40,7 +40,7 @@ Concrete compressive strength is one of the most critical parameters in civil en
 
 ---
 
-## 🔄 Project Workflow
+## Project Workflow
 
 ```
 1. Import Libraries
@@ -62,7 +62,7 @@ Concrete compressive strength is one of the most critical parameters in civil en
 
 ---
 
-## 📈 Results
+## Results
 
 The model was evaluated using the following metrics:
 
@@ -72,16 +72,16 @@ The model was evaluated using the following metrics:
 | MAPE | Mean Absolute Percentage Error — % deviation |
 | MSE | Mean Squared Error — penalizes large errors |
 
-A scatter plot of **Actual vs Predicted Strength** was plotted to visualize model performance.
+A scatter plot of Actual vs Predicted Strength was plotted to visualize model performance.
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Vpriyareddy12/concrete-compressive-strength-prediction.git
-   cd concrete-compressive-strength-prediction
+   git clone https://github.com/Vpriyareddy12/ml-internship-ybif.git
+   cd ml-internship-ybif/Concrete-Compressive-Strength
    ```
 
 2. **Install dependencies**
@@ -96,7 +96,7 @@ A scatter plot of **Actual vs Predicted Strength** was plotted to visualize mode
 
 ---
 
-## 📦 Requirements
+## Requirements
 
 ```
 pandas
@@ -109,7 +109,7 @@ jupyter
 
 ---
 
-## 🧠 Key Learnings
+## Key Learnings
 
 - Performed end-to-end regression pipeline from data loading to future prediction
 - Understood the impact of each concrete ingredient on compressive strength
@@ -118,7 +118,6 @@ jupyter
 
 ---
 
-
-## 📄 License
+## License
 
 This project is licensed under the [MIT License](LICENSE).
